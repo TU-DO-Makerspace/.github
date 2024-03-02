@@ -5,4 +5,4 @@ The new organization can be found here:
 
 https://github.com/TuDo-Makerspace
 
-This organization shall not be used and shall only be kept to prevent phishing attacks!
+This organization shall not be used and should only be kept to prevent phishing attacks!
